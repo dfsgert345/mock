@@ -9,7 +9,8 @@
     "app_image_profile_detail_on": "https://images.contentstack.io/v3/assets/bltfcb054dbed5b5d3c/bltc348d107edeb3c9f/652e87ce8dd295c1c4efc34d/PROFILE_ON_1280x1920_SARA.png",
     "app_image_profile_detail_off": "https://images.contentstack.io/v3/assets/bltfcb054dbed5b5d3c/blteeae42933fd432eb/652e87dc6003f874023b8753/PROFILE_ON_1280x1920_SARA.png",
     "vote_thumbnail": "https://images.contentstack.io/v3/assets/bltfcb054dbed5b5d3c/blt5dc0a3b6e646c327/652e8fe341b26d5cef93b3eb/sara.png",
-    "voteExultationThumbnail": "https://images.contentstack.io/v3/assets/bltfcb054dbed5b5d3c/blt44a8d463c3d21d33/652e8837fe2d4b434db1b9b3/sara_esultanza.png"
+    "voteExultationThumbnail": "https://images.contentstack.io/v3/assets/bltfcb054dbed5b5d3c/blt44a8d463c3d21d33/652e8837fe2d4b434db1b9b3/sara_esultanza.png",
+    "status": "in-gara"
   },
   {
     "talentId": 2,
@@ -22,6 +23,7 @@
     "app_image_profile_detail_on": "https://images.contentstack.io/v3/assets/bltfcb054dbed5b5d3c/blt2ec7aeb9953ab79a/652e8f8e41b26d53aa93b3e7/PROFILE_ON_1280x1920_MARIA.png",
     "app_image_profile_detail_off": "https://images.contentstack.io/v3/assets/bltfcb054dbed5b5d3c/blt262c8067a8f469ff/652e8f96cf22e313a4fda869/PROFILE_ON_1280x1920_MARIA.png",
     "vote_thumbnail": "https://images.contentstack.io/v3/assets/bltfcb054dbed5b5d3c/blt70f2befbaccb09d3/652e8fd68feec304b868b1b6/maria.png",
-    "voteExultationThumbnail": "https://images.contentstack.io/v3/assets/bltfcb054dbed5b5d3c/bltd1edcfdefde736d1/652e8fa7d5a1c48538b49b15/maria_esultanza.png"
+    "voteExultationThumbnail": "https://images.contentstack.io/v3/assets/bltfcb054dbed5b5d3c/bltd1edcfdefde736d1/652e8fa7d5a1c48538b49b15/maria_esultanza.png",
+    "status": "fuori-gara"
   }
 ]
